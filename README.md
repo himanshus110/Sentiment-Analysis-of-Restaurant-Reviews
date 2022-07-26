@@ -5,9 +5,9 @@ The main objective of this project is to create a model that will determine whet
 The dataset for this project was obtained from Kaggle and has been uploaded in this repository.
 You may also find the Dataset at this link: https://www.kaggle.com/datasets/vigneshwarsofficial/reviews
 
-In this project, I used Natural Language Processing on the dataset 
+In this project, I did Natural Language Processing on the dataset and then used the Multinomial Naive Bayes Algorithm to build a model.
 
-The sentiment analysis is a classification because the output should be either positive or negative. I used the Multinomial Naive Bayes Algorithm in this project for classification.
+The sentiment analysis is a classification problem because the output should either be positive or negative.
 
 Multinomial Naive Bayes: Naive Bayes Classifier Algorithm is a family of probabilistic algorithms based on applying Bayes’ theorem with the “naive” assumption of conditional independence between every pair of a feature. Bayes theorem calculates probability P(c|x) where c is the class of the possible outcomes and x is the given instance which has to be classified, representing some certain features.
 
